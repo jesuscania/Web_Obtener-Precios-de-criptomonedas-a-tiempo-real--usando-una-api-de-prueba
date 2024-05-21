@@ -1,0 +1,19 @@
+:root {
+  --white: #fff;
+  --primary: hsl(39, 83%, 56%);
+  --black: #111;
+}
+
+html {
+  font-family: "Inter", sans-serif;
+  color: var(--white);
+  font-size: 62.5%;
+}
+body{
+  background-image: url("./img.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  min-height: 100vh;
+  font-size: 2rem;
+}

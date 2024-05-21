@@ -1,0 +1,21 @@
+.app_tittle{
+    text-align: center;
+    font-size: 3rem;
+} .app_tittle span {
+    display: block;
+    color: var(--primary);
+    font-size: 3rem;
+    line-height: .8;
+}
+.mainContainer{
+    max-width: 60rem;
+    width: 95%;
+    margin: 0 auto;
+}
+.container{
+    margin-top: 5rem;
+    padding: 4rem 2rem;
+    background-color: var(--white);
+    border-radius: 2rem;
+    box-shadow: rgba(0, 0, 0, 0.24) 10px 3px 8px;
+}
